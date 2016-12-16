@@ -1,4 +1,4 @@
-Video courses on Udacity
+Video courses about Software Testing on Udacity
 #Software Testing
 - [ ]  Software Testing https://www.udacity.com/course/software-testing--cs258
 - [ ]  Software Debugging https://www.udacity.com/course/software-debugging--cs259
@@ -8,7 +8,10 @@ Video courses on Udacity
 - [ ]  Software Architecture & Design
 - [ ]  Software Development Process
 
-
 Reading list
 - [ ]  Manual Software Testing (check skype)
 - [ ]  Practical Software Testing (check skype)
+
+Google play App test
+- [ ] https://play.google.com/apps/testing/com.google.android.googlequicksearchbox
+
