@@ -1,0 +1,14 @@
+Video courses on Udacity
+#Software Testing
+- [ ]  Software Testing https://www.udacity.com/course/software-testing--cs258
+- [ ]  Software Debugging https://www.udacity.com/course/software-debugging--cs259
+- [ ]  A/B Testing https://www.udacity.com/course/ab-testing--ud257 
+
+#Software Development
+- [ ]  Software Architecture & Design
+- [ ]  Software Development Process
+
+
+Reading list
+- [ ]  Manual Software Testing (check skype)
+- [ ]  Practical Software Testing (check skype)
